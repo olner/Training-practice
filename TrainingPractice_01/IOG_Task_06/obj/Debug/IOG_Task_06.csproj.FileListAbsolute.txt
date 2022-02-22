@@ -1,0 +1,7 @@
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_06\bin\Debug\IOG_Task_06.exe.config
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_06\bin\Debug\IOG_Task_06.exe
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_06\bin\Debug\IOG_Task_06.pdb
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_06\obj\Debug\IOG_Task_06.csproj.AssemblyReference.cache
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_06\obj\Debug\IOG_Task_06.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_06\obj\Debug\IOG_Task_06.exe
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_06\obj\Debug\IOG_Task_06.pdb
