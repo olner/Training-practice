@@ -10,7 +10,7 @@ namespace IOG_task_07
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Программа перемешивнаия массива");
+            Console.WriteLine("Программа перемешивания массива");
             Console.Write("Введите кол-во элементов одномерного массива ");
             int[] mas = new int[int.Parse(Console.ReadLine())];
             var rnd = new Random();
