@@ -1,0 +1,11 @@
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_week2\bin\Debug\IOG_Task_week2.exe.config
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_week2\bin\Debug\IOG_Task_week2.exe
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_week2\bin\Debug\IOG_Task_week2.pdb
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_week2\obj\Debug\IOG_Task_week2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_week2\obj\Debug\IOG_Task_week2.Form1.resources
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_week2\obj\Debug\IOG_Task_week2.Properties.Resources.resources
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_week2\obj\Debug\IOG_Task_week2.csproj.GenerateResource.cache
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_week2\obj\Debug\IOG_Task_week2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_week2\obj\Debug\IOG_Task_week2.exe
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_week2\obj\Debug\IOG_Task_week2.pdb
+C:\Users\user\Documents\TrainingPractice_01\Training-practice\TrainingPractice_01\IOG_Task_week2\obj\Debug\IOG_Task_week2.TestForm.resources
